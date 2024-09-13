@@ -1,8 +1,7 @@
-# Demographic_analysis
-Data Science Project: Statistical Analysis of Consumer Behavior in Bajtocja
+# Data Science Project: Statistical Analysis of Consumer Behavior in Bajtocja
 Project Overview
 
-This project involves a statistical analysis of simulated consumer behavior data from a fictional region, Bajtocja. The dataset, dane_projekt1.csv, contains survey results on various consumer habits and demographic details.
+This project involves a statistical analysis of simulated consumer behavior data from a fictional region, Bajtocja. The dataset, project_data1.csv, contains survey results on various consumer habits and demographic details.
 Data Description
 
 The dataset includes the following variables:
